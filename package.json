@@ -2,7 +2,7 @@
   "name": "vue-routing",
   "keywords": [],
   "author": "Andrea Staccini",
-  "description": "A Vue.js project",
+  "description": "Vue template for app with routing",
   "version": "0.1.0",
   "private": true,
   "scripts": {
